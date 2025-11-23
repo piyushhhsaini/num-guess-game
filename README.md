@@ -24,3 +24,6 @@ python guess_number.py
 4.Shows total attempts
 
 5.No extra libraries needed
+
+## Working of the code:-
+![Image Alt](https://github.com/piyushhhsaini/num-guess-game/blob/11c6726f54cf1bb4ae3d1f0e7cfd0520b686d3dc/Screenshot%202025-11-23%20162158.png)
